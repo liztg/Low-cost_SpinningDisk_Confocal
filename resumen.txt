@@ -1,0 +1,3 @@
+Este sistema integra el control de un motor paso a paso (con driver TB6560 vía Arduino) y la captura de imágenes con una cámara USB desde una única interfaz en Python. Permite conectar/desconectar dispositivos, ajustar la velocidad del motor (0–300 RPM), mostrar vídeo en vivo, capturar series de imágenes con exposición manual y aplicar operaciones como promediado o suma para mejorar la señal, guardando resultados con marcas de tiempo.
+
+Para el motor usa pyserial para la comunicación serial con el Arduino. Para la cámara emplea opencv-python (OpenCV) para detección, captura y visualización, y numpy para el procesamiento de imágenes (promedio y suma). También se utilizan utilidades estándar de Python como datetime para los nombres de archivo y manejo de tiempos.
