@@ -1,0 +1,39 @@
+CAPTURE BURST STATISTICS
+============================================================
+
+Date/Time: 2025-11-28 11:06:00
+Images captured: 10/10
+Total burst time: 4.520915s (4520.915ms)
+
+INDIVIDUAL CAPTURE TIMES (ms):
+  Image 1: 0.452ms
+  Image 2: 1.919ms
+  Image 3: 2.079ms
+  Image 4: 2.099ms
+  Image 5: 1.975ms
+  Image 6: 2.058ms
+  Image 7: 2.079ms
+  Image 8: 2.134ms
+  Image 9: 2.096ms
+  Image 10: 2.190ms
+
+AVERAGE: 1.908ms
+MIN: 0.452ms
+MAX: 2.190ms
+
+INTER-CAPTURE INTERVALS (ms):
+  Interval 1-2: 500.162ms
+  Interval 2-3: 500.154ms
+  Interval 3-4: 500.191ms
+  Interval 4-5: 500.218ms
+  Interval 5-6: 500.208ms
+  Interval 6-7: 500.167ms
+  Interval 7-8: 500.230ms
+  Interval 8-9: 500.209ms
+  Interval 9-10: 500.222ms
+
+AVERAGE: 500.196ms
+MIN: 500.154ms
+MAX: 500.230ms
+
+EFFECTIVE FPS: 2.212

@@ -1,0 +1,15 @@
+CAPTURE BURST STATISTICS
+============================================================
+
+Date/Time: 2026-05-29 12:39:57
+Images captured: 1/1
+Total burst time: 0.015521s (15.521ms)
+
+INDIVIDUAL CAPTURE TIMES (ms):
+  Image 1: 15.485ms
+
+AVERAGE: 15.485ms
+MIN: 15.485ms
+MAX: 15.485ms
+
+EFFECTIVE FPS: 64.431
